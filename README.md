@@ -10,5 +10,5 @@ Research questions- Length of song v. popularity/genre, genre v. popularity, top
 
 Datasets to be used- https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks
 
-Rough breakdown of tasks- Clean the dataset  sorting by popularity in a dataframe, removing null rows,  Finding correlation of
+Rough breakdown of tasks- Clean the dataset by sorting by popularity in a dataframe, removing null rows, converting necessary numeric data; Finding correlation of popularity v. song attributes using summary statistical methods; regression + plotting.
 
