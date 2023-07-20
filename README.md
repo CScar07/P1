@@ -2,11 +2,11 @@
 Group_Analysis/Visualization--PROJECT 1
 Project title- Music Predictor (working title)
 
-Team members- Chase S., Alysa S., Jimmy C., Hayden J., Dianna R.
+Team members-Alysa S.(opener) Chase S. , Alysa S., Jimmy C., Hayden J., Dianna R.
 
 Project description/outline- What [attributes] make a song successful? Continue to be popular? What song will be popular?
 
-Research questions- Length of song v. popularity/genre, genre v. popularity, top 10% songs v (danceability, note/tempo) ,  genre v. energy, popularity over time, level of vocals
+Research questions-  What is the relationship between genre v. popularity [vizx2]; the relationship between mean popularity over years and relationship between attribute scores over the years; relationship between popularity v. specific, described attributes. 
 
 Datasets to be used- https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks
 
